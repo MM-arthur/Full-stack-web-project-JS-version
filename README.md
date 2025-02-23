@@ -48,10 +48,13 @@ Sencondly, let me talk about the main database design ideas and maintan rules.
 **In my project, sqlscript.sql describe the table struct**
 
 ## 2.Server Side (Back-end Development) & Browser Side (Front-end Development)
+MEVN: MySQL / Express.js / Vue.js / Node.js
 
 Points:
 
-1. Vue + Node.js
+1. Vue.js & Vite 
+
+2. Express & Node.js 
 
 2. Restful Api
 
