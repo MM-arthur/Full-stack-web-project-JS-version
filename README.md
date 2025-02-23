@@ -1,6 +1,6 @@
 # Full-stack-web-project-JS-version
 
-My second open source full-stack development project, used to LEARN and SHOW, also my interest. BTW, Welcome to contact me.  
+Full-stack web project, use to LEARN and SHOW, also my interest. BTW, Welcome to contact me.  
 
 **After AI, I think it will kill many positions, because junior back-end developers engineer (CRUD guys), junior front-end developers engineer (UI component guys), junior test engineer and junior DevOps engineer can be replaced.**
 
